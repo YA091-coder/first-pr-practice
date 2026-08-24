@@ -4,7 +4,7 @@ A tiny repo for practicing the GitHub pull request workflow: clone, branch, comm
 
 ## What this is
 
-This repo exists so you can experiance the full flow of contributing to a project on GitHub without any risk to a real codebase.
+This repo exists so you can experience the full flow of contributing to a project on GitHub without any risk to a real codebase.
 
 ## How to contribute
 
